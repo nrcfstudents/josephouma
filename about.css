@@ -1,0 +1,40 @@
+body{
+	font-family: monospace;
+	margin: 40px;
+	padding: 40px;
+}
+.row{
+	float: left;
+	justify-content: space-between;
+	display: flex;
+}
+.fact{
+	font-size: 60px;
+
+}
+.skils{
+	font-size: 60px;
+}
+.subject{
+	font-size: 60px;
+}
+.about-section{
+	padding: 60px
+	text-align:center;
+	background-color: blue;
+	color: white;
+}
+.class-container{
+	padding: 0 16px;
+}
+.colum,.row,{
+	        border: 2px solid
+}
+.colum{
+    width: 100%;
+	padding: 30px;
+}
+img{
+	width: 30px;
+	height:auto;
+}
