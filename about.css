@@ -1,40 +1,44 @@
+
 body{
-	font-family: monospace;
-	margin: 40px;
-	padding: 40px;
+	font-family: serif;
+	margin: 10 10 10 20;
+	padding: 20px;
 }
 .row{
-	float: left;
-	justify-content: space-between;
 	display: flex;
+	justify-content: space-between;
 }
-.fact{
-	font-size: 60px;
-
+.facts{
+	font-size: 30px;
+	text-align: left;
 }
-.skils{
-	font-size: 60px;
+.skills{
+	font-size: 30px;
+	text-align: ;
 }
-.subject{
-	font-size: 60px;
+.subjects{
+	font-size: 30px;
 }
 .about-section{
-	padding: 60px
-	text-align:center;
-	background-color: blue;
-	color: white;
+	padding: 50px;
+	text-align: center;
+	background-color: darkgrey;
+	calour: white;
 }
 .class-container{
 	padding: 0 16px;
 }
-.colum,.row,{
-	        border: 2px solid
+.column,.row{
+	border: 2px solid black;
 }
-.colum{
-    width: 100%;
-	padding: 30px;
+.column{
+	padding: 20px;
+	width: 100%;
 }
 img{
-	width: 30px;
-	height:auto;
+	width: 70px;
+	height: auto;
+}
+.title{
+
 }
